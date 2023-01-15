@@ -1,5 +1,5 @@
- <p align="center">
-  <img alt="NLW Copa" src=".github/copa.svg" />
+<p align="center">
+  <img alt="NLW Copa" src=".github/logo.svg" />
 </p>
 
 <p align="center">
