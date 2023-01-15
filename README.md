@@ -7,7 +7,7 @@
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=F7DD43&labelColor=202024" alt="License"></a>
 </p>
 
-<img src="[.github/web.png](https://raw.githubusercontent.com/rocketseat-education/nlw-copa-ignite/main/.github/web.png)">
+<img src=".github/web.png](https://raw.githubusercontent.com/rocketseat-education/nlw-copa-ignite/main/.github/web.png">
 
 ## 💻 Projeto
 
